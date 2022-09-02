@@ -1,0 +1,10 @@
+.box4-bg span{
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    width: 3px;
+    height: 0px;
+    background-color: white;
+    opacity: 0.8;
+    animation: linear-move 0.9s ease-in-out infinite;
+}
